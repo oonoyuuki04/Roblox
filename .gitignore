@@ -1,0 +1,11 @@
+
+# Roblox Studio temporary files
+*.rbxl.lock
+*.rbxlx.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# User specific configuration
+# (Add any user specific config files here)
